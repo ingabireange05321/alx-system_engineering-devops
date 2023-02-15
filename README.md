@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-about bash script
+Shell, init files, variables and expansions
